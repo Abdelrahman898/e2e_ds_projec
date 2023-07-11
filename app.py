@@ -1,3 +1,5 @@
+
+# import the necessary libraries
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -15,6 +17,7 @@ def load_model():
     return the_model
 model = load_model()
 
+# Load the trained scaling
 @st.cache_data
 def load_scaler():
     scaler_path = os.path.join(os.getcwd(), 'models','scaler.pkl')
@@ -50,10 +53,6 @@ st.markdown('2. Click on the "Predict Power" button to initiate the power predic
 # Create a button to trigger the prediction
 if st.button('Predict Power'):
     
-    # Combine the input features into an DataFrame
-    # input_features = pd.DataFrame([[feature1, feature2, feature3, feature4]],
-    #                              columns=['AT ', 'V', 'AP ', 'RH'])
-
     input_features = np.array([[feature1, feature2, feature3, feature4]])
     
     # Scale the input features  
