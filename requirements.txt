@@ -18,7 +18,7 @@ plotly==5.14.1
 scikit-learn==1.2.2
 scipy==1.10.1
 seaborn==0.12.2
-streamlit==1.24.1
+streamlit
 xgboost==1.7.5
-tensorflow==2.11.0
+tensorflow
 catboost==1.2
