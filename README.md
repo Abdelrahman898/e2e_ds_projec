@@ -130,4 +130,4 @@ features and the target variable, enabling accurate predictions on new, unseen d
 
 ## App
 
-![alt tag](https://github.com/Abdelrahman898/e2e_ds_projec/blob/main/images/Screenshot 2023-07-11 205831.png)
+![alt tag](https://github.com/Abdelrahman898/e2e_ds_project/blob/main/images/Screenshot%202023-07-11%20205831.png)
