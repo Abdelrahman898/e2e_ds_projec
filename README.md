@@ -131,3 +131,6 @@ features and the target variable, enabling accurate predictions on new, unseen d
 ## App
 
 ![alt tag](https://github.com/Abdelrahman898/e2e_ds_project/blob/main/images/Screenshot%202023-07-11%20205831.png)
+
+
+Check the [App](https://e2edsproject-t583gp5xxy9.streamlit.app/) !
