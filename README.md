@@ -38,7 +38,7 @@ The dataset contains 9568 data points collected from a Combined Cycle Power Plan
 
 | Q: | A | Q: | A | Q: | A | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Data Set Characteristics:** | Multivariate | **Number of Instances:** | 9568 | **Area:** | computer |
+| **Data Set Characteristics:** | Multivariate | **Number of Instances:** | 47844 | **Area:** | computer |
 | **Attribute Characteristics:** | Real | **Number of Attributes:** | 4 | **Date Donated:** | 2014-03-26 |
 | **Associated Tasks:** | Regression | **Missing Values?:** | N/A |
 
